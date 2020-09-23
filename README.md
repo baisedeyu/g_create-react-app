@@ -7,23 +7,24 @@ yarn start
 
 ## 插件
 # get数据
+### get数据
 axios
 
-# 国际化
+### 国际化
 react-intl  intl
 
-# 页面缓存
+### 页面缓存
 react-keep-alive
 
-# redux
+### redux
 react-redux  redux  redux-thunk
 
-# 路由
+### 路由
 react-dom  react-router-dom
 
-# 低延迟
+### 低延迟
 fastclick
 
-# 兼容ie
+### 兼容ie
 react-app-polyfill  core-js
 
