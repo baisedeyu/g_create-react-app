@@ -16,6 +16,7 @@ class Test1 extends Component {
         <button onClick={this.handleClick}>
           修改
         </button>
+        <span>test</span>
       </div>
     );
   }
