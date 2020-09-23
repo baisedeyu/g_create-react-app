@@ -6,7 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 yarn start
 
 ## 插件
-# get数据
 ### get数据
 axios
 
