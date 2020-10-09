@@ -7,7 +7,7 @@ class KeepAlive1 extends Component {
       <div>
         <input type="text" />
         <br />
-        <button onClick={()=>this.props.history.push('/keep2')}>gokeep2</button>
+        <button onClick={()=>this.props.history.push('/keep2')}>gokeep 2</button>
       </div>
     );
   }
